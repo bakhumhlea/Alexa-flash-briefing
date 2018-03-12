@@ -3,7 +3,7 @@
 const data = require('./data');
 
 // TODO change skillTitle
-const skillTitle = 'My Flash Briefing';
+const skillTitle = 'Brief Me Design';
 
 const months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
 const now = new Date();

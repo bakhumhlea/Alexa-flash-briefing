@@ -36,7 +36,7 @@
                   "genre": "Lifestyle",
                   "updateFrequency": "DAILY",
                   "contentType": "Text",
-                  "url": "https://aaaaaaaaaa.execute-api.us-east-1.amazonaws.com/prod/alexaFBSkillQuoteToday"
+                  "url": "https://wu943ji4ha.execute-api.us-east-1.amazonaws.com/prod/alexaFBSkillQuoteToday"
                 }
               ]
             }
